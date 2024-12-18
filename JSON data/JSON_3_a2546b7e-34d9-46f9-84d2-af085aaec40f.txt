@@ -1,0 +1,178 @@
+{
+	"id": "a2546b7e-34d9-46f9-84d2-af085aaec40f",
+	"engagementId": "66b72794-3581-4eda-968d-837ea0730ac9",
+	"name": "iManage Enterprise ",
+	"organizationId": "355e66da-9f6c-43bb-a13a-0885ebaabd5c",
+	"organizationName": "iManage",
+	"lastModifiedVia": null,
+	"lastRunId": null,
+	"externalReferenceId": null,
+	"createdDateTime": "2022-02-25T17:54:36.1961744Z",
+	"updatedDateTime": "2022-02-25T18:08:51.6353008Z",
+	"expirationDateTime": null,
+	"status": "Active",
+	"substatus": "Accepted",
+	"statusReason": null,
+	"qualification": "SalesQualified",
+	"type": "Shared",
+	"referralSource": null,
+	"eTag": "\"1a008cb8-0000-0800-0000-62191b330000\"",
+	"favorite": false,
+	"campaignId": null,
+	"salesStage": null,
+	"quality": "Unknown",
+	"isSpam": false,
+	"direction": "Incoming",
+	"mpnId": "6193175",
+	"referralProgram": null,
+	"dealSensitivity": "None",
+	"createdVia": null,
+	"tags": [],
+	"acceptedDateTime": "2022-02-25T17:54:36.1957875Z",
+	"closedDateTime": null,
+	"callToAction": null,
+	"registrationStatus": "None",
+	"target": [
+		{
+			"type": "SolutionProfile",
+			"id": "a1965dd8-065d-43d1-a831-6204c2117f5e"
+		}
+	],
+	"customerProfile": {
+		"name": "BASF SE",
+		"size": "",
+		"isMatchingComplete": false,
+		"address": {
+			"addressLine1": "Carl-Bosch-Str. 38",
+			"addressLine2": null,
+			"city": "Ludwigshafen am Rhein",
+			"state": null,
+			"postalCode": "67063",
+			"country": "DE",
+			"region": null
+		},
+		"team": [
+			{
+				"firstName": "Svetlana ",
+				"lastName": "Shelepina",
+				"phoneNumber": "49 621 600",
+				"email": "svetlana.shelepina@basf.com",
+				"title": null,
+				"contactPreference": {
+					"locale": null,
+					"disableNotifications": true
+				}
+			}
+		],
+		"ids": [
+			{
+				"profileType": "Duns",
+				"id": "315000554"
+			}
+		]
+	},
+	"consent": {
+		"consentToToShareInfoWithOthers": true,
+		"consentToContact": true,
+		"consentToShareReferralWithMicrosoftSellers": true
+	},
+	"details": {
+		"notes": null,
+		"dealValue": 100000,
+		"currency": "EUR",
+		"closingDateTime": "2022-06-29T23:00:00Z",
+		"customerRequestedContact": null,
+		"customerAction": null,
+		"incentiveLevel": null,
+		"requirements": {
+			"industries": [],
+			"products": [],
+			"services": [],
+			"solutions": [
+				{
+					"id": "a1965dd8-065d-43d1-a831-6204c2117f5e",
+					"name": "iManage Priv. Enterprise Legal, Audit, Compliance",
+					"type": "Name",
+					"price": null,
+					"quantity": null,
+					"currency": null,
+					"publisherName": null,
+					"solutionType": null,
+					"closingDateTime": null
+				}
+			],
+			"salesPlays": [],
+			"additionalRequirements": {
+				"iot": {
+					"customerLicenseAgreementNumber": null,
+					"deviceCategory": null,
+					"siliconType": null,
+					"azureCertifiedDevice": false,
+					"attachServices": false
+				}
+			}
+		}
+	},
+	"team": [
+		{
+			"firstName": "David",
+			"lastName": "Moseley",
+			"phoneNumber": "07720310891",
+			"email": "david.moseley@imanage.com",
+			"title": null,
+			"contactPreference": {
+				"locale": null,
+				"disableNotifications": null
+			}
+		},
+		{
+			"firstName": "Stephen",
+			"lastName": "Murphy",
+			"phoneNumber": "+34 647 951 771",
+			"email": "stephen.murphy@imanage.com",
+			"title": null,
+			"contactPreference": {
+				"locale": null,
+				"disableNotifications": null
+			}
+		},
+		{
+			"firstName": "Ronak",
+			"lastName": "Dave",
+			"phoneNumber": "224-628-8779",
+			"email": "ronak.dave@imanage.com",
+			"title": null,
+			"contactPreference": {
+				"locale": null,
+				"disableNotifications": null
+			}
+		}
+	],
+	"inviteContext": {
+		"notes": null,
+		"assistanceRequestCode": "Unknown",
+		"invitedMpnId": "6193175",
+		"invitedBy": {
+			"organizationId": "355e66da-9f6c-43bb-a13a-0885ebaabd5c",
+			"organizationName": "iManage"
+		}
+	},
+	"links": {
+		"relatedReferrals": {
+			"uri": "https://api.partner.microsoft.com/v1.0/engagements/referrals?$filter=engagementId eq 66b72794-3581-4eda-968d-837ea0730ac9",
+			"method": "GET"
+		},
+		"self": {
+			"uri": "https://api.partner.microsoft.com/v1.0/engagements/referrals/a2546b7e-34d9-46f9-84d2-af085aaec40f",
+			"method": "GET"
+		}
+	},
+	"trackingInfo": {
+		"microsoftMsxId": null,
+		"microsoftUSFedOpportunityId": null,
+		"microsoftUSFedLeadId": null,
+		"migratedPSCDealId": null,
+		"migratedPSCPartnerDealId": null
+	},
+	"registrations": []
+}

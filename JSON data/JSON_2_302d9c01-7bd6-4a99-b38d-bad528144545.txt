@@ -1,0 +1,152 @@
+{
+	"id": "302d9c01-7bd6-4a99-b38d-bad528144545",
+	"engagementId": "f889cdf9-8e09-4126-a1df-46e0ab69bcda",
+	"name": "iManage Jones Day",
+	"organizationId": "355e66da-9f6c-43bb-a13a-0885ebaabd5c",
+	"organizationName": "iManage",
+	"lastModifiedVia": null,
+	"lastRunId": null,
+	"externalReferenceId": null,
+	"createdDateTime": "2022-02-25T13:49:42.887627Z",
+	"updatedDateTime": "2022-02-25T15:15:08.2670935Z",
+	"expirationDateTime":"2022-06-25T15:15:08.2670935Z",
+	"status": "Active",
+	"substatus": "Accepted",
+	"statusReason": null,
+	"qualification": "SalesQualified",
+	"type": "Shared",
+	"referralSource": null,
+	"eTag": "\"6700f96c-0000-1000-0000-6218f27c0000\"",
+	"favorite": false,
+	"campaignId": null,
+	"salesStage": null,
+	"quality": "Unknown",
+	"isSpam": false,
+	"direction": "Incoming",
+	"mpnId": "6193175",
+	"referralProgram": null,
+	"dealSensitivity": "None",
+	"createdVia": null,
+	"tags": [],
+	"acceptedDateTime": "2022-02-25T13:49:42.2166047Z",
+	"closedDateTime": null,
+	"callToAction": null,
+	"registrationStatus": "None",
+	"target": [
+		{
+			"type": "SolutionProfile",
+			"id": "d84be20e-6710-42f5-a009-5e72a9ad50bf"
+		}
+	],
+	"customerProfile": {
+		"name": "JONES DAY LIMITED PARTNERSHIP",
+		"size": "",
+		"isMatchingComplete": false,
+		"address": {
+			"addressLine1": "N POINT 901 LAKESIDE AVE",
+			"addressLine2": null,
+			"city": "CLEVELAND",
+			"state": null,
+			"postalCode": "44114",
+			"country": "US",
+			"region": "OH"
+		},
+		"team": 
+			{
+				"firstName": "Candia",
+				"lastName": "Sweet",
+				"phoneNumber": "2165863939",
+				"email": "clsweet@jonesday.com",
+				"title": null,
+				"contactPreference": {
+					"locale": null,
+					"disableNotifications": true
+				}
+			}
+		,
+		"ids": []
+	},
+	"consent": {
+		"consentToToShareInfoWithOthers": true,
+		"consentToContact": true,
+		"consentToShareReferralWithMicrosoftSellers": true
+	},
+	"details": {
+		"notes": null,
+		"dealValue": 1000000,
+		"currency": "USD",
+		"closingDateTime": "2022-06-29T23:00:00Z",
+		"customerRequestedContact": null,
+		"customerAction": null,
+		"incentiveLevel": null,
+		"requirements": {
+			"industries": [],
+			"products": [],
+			"services": [],
+			"solutions": [
+				{
+					"id": "d84be20e-6710-42f5-a009-5e72a9ad50bf",
+					"name": "iManage Private Law and Professional Service Firms",
+					"type": "Name",
+					"price": null,
+					"quantity": null,
+					"currency": null,
+					"publisherName": null,
+					"solutionType": null,
+					"closingDateTime": null
+				}
+			],
+			"salesPlays": [],
+			"additionalRequirements": {
+				"iot": {
+					"customerLicenseAgreementNumber": null,
+					"deviceCategory": null,
+					"siliconType": null,
+					"azureCertifiedDevice": false,
+					"attachServices": false
+				}
+			}
+		}
+	},
+	"team": 
+		
+		{
+			"firstName": "Brian",
+			"lastName": "Roberts ",
+			"phoneNumber": "9174566524",
+			"email": "brian.roberts@imanage.com",
+			"title": null,
+			"contactPreference": {
+				"locale": null,
+				"disableNotifications": null
+			}
+		}
+	,
+	"inviteContext": {
+		"notes": null,
+		"assistanceRequestCode": "Unknown",
+		"invitedMpnId": "6193175",
+		"invitedBy": {
+			"organizationId": "355e66da-9f6c-43bb-a13a-0885ebaabd5c",
+			"organizationName": "iManage"
+		}
+	},
+	"links": {
+		"relatedReferrals": {
+			"uri": "https://api.partner.microsoft.com/v1.0/engagements/referrals?$filter=engagementId eq f889cdf9-8e09-4126-a1df-46e0ab69bcda",
+			"method": "GET"
+		},
+		"self": {
+			"uri": "https://api.partner.microsoft.com/v1.0/engagements/referrals/302d9c01-7bd6-4a99-b38d-bad528144545",
+			"method": "GET"
+		}
+	},
+	"trackingInfo": {
+		"microsoftMsxId": null,
+		"microsoftUSFedOpportunityId": null,
+		"microsoftUSFedLeadId": null,
+		"migratedPSCDealId": null,
+		"migratedPSCPartnerDealId": null
+	},
+	"registrations": []
+}
